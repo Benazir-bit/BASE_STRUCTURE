@@ -1,0 +1,14 @@
+.sideMenu{
+    padding: 3px 5px !important;
+    text-align: center !important;
+  }
+  .logotxt{
+    color: white;
+    text-align: center;
+    font-size: 26px;
+    padding: 10px;
+    margin: 0;
+  }
+  .ant-layout-sider-trigger span svg{
+    margin-top: 18px;
+  }

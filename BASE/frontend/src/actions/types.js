@@ -1,0 +1,23 @@
+// SKELETON
+export const SKELETONLOADING = "SKELETONLOADING";
+
+// AUTH
+export const LOADING = "LOADING";
+export const USER_LOADING = "USER_LOADING";
+export const USER_LOADED = "USER_LOADED";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
+export const PASSWORD_VALIDATION = "PASSWORD_VALIDATION";
+
+
+// PAGE TRANSITION
+export const PAGE_LOAD = "PAGE_LOAD";
+export const PAGE_LOADED = "PAGE_LOADED";
+export const SPLASH_LOAD = "SPLASH_LOAD";
+
+// ALERT
+
+export const ALERT_MESSAGE = "ALERT_MESSAGE";
+export const ERROR_MESSAGE = "ERROR_MESSAGE";
